@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  height: 6%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(5, 240, 3, 0.2);
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  gap: 7px;
+  font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+}
